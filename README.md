@@ -1,2 +1,5 @@
-# Ola-Mundo
- Aula de GIT Guanabara
+# Olá, Mundo!
+ Curso de GitHub Gustavo Guanabara
+
+Repositório criado para aula
+ 
